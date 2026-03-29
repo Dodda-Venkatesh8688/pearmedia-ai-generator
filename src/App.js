@@ -5,7 +5,7 @@ import WorkflowImage from './components/WorkflowImage';
 import './App.css';
 
 function App() {
-  // Tab change cheyadaniki state ('text' or 'image')
+
   const [activeTab, setActiveTab] = useState('text');
 
   return (
